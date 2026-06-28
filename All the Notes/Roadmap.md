@@ -1,3 +1,37 @@
+1. JavaScript Prerequisites (Must Know Before React)
+Core JavaScript
+Variables (let, const)
+Data Types
+Operators
+Functions
+Arrow Functions
+Scope & Closures
+Template Literals
+Destructuring
+Spread & Rest Operators
+Default Parameters
+Objects & Arrays
+Optional Chaining (?.)
+Nullish Coalescing (??)
+Array Methods
+map()
+filter()
+find()
+reduce()
+some()
+every()
+sort()
+forEach()
+Asynchronous JavaScript
+Callbacks
+Promises
+async/await
+Fetch API
+Error Handling
+ES Modules
+export
+export default
+import
 2. React Fundamentals
 Introduction
 What is React?
